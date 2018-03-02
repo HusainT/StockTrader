@@ -1,2 +1,2 @@
 # StockTrader
-Predicts stocks rising and falling and calculates return on investment using Algorithmic trading algorithmic over expected returns
+Predicts stocks rising and falling and calculates return on investment using Algorithmic trading algorithmic over expected returns. It will ask for input on the stock symbol for the S&P 500 company and an initial amount of money to invest. Returns the amount of money after following the investment strategy and compares it to how much you would have made if you just invested and held. 
